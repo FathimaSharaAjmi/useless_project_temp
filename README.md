@@ -1,20 +1,20 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [TYPEUP] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [MAKERS]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [FATHIMA SHARA AJMI] - [COLLEGE OF ENGINEERING MUNNAR]
+- Member 2: [ROSHNAMOL SURESH] - [COLLEGE OF ENGINEERING MUNNAR]
+  
 
 ### Project Description
-[2-3 lines about what your project does]
+[An app which compliments the typing speed of a person whether it is slow or fast. ]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -25,18 +25,19 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [Languages used:  javascript , css ,html]
+- [front end: css ,html
+- backend :java script ]
+- [tools used : visual studio code]
 
 ### Implementation
-For Software:
+For Software: The Typing Compliment App was implemented using HTML, CSS, and JavaScript.
+
+HTML was used to structure the interface, including the text display area, input box, and compliment section.
+
+CSS was applied to style the app, ensuring a clean, user-friendly, and visually appealing layout.
+
+JavaScript handled the app’s core logic — tracking typing speed, detecting accuracy, and displaying real-time compliments based on performance. Compliments were fetched from a predefined array and displayed dynamically as the user typed. 
 # Installation
 [commands]
 
@@ -47,14 +48,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![screenshot 1] https://drive.google.com/file/d/1HquDjnWTT-UP-jWLM4iSwQ9qX6HKtd2s/view?usp=drivesdkwith 
+Here is the typing speed compliment app which shows us what to type even with a proper sentence or in a word
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+[Screenshot2]https://drive.google.com/file/d/1HrMZe0_dAeueXclTBIep5-wxztTAlZ2F/view?usp=drivesdk
+The app which show us the timer, accuracy, wpm of our typing.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+[Screenshot3]https://drive.google.com/file/d/1HqXuMF7xfwYa6gBdh3YuwR84Z31fSOmF/view?usp=drivesdk
+The app which compliment that even our typing is too slow or fast. That will encourage us 
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -81,16 +82,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1zksYCwhXp-mmwZk3geo7rq2htzlBnz81/view?usp=drive_link]
+*The video shows working of the app. shows key functionalities like the compliment popup after finishing the typing, selection of  words , sentences, etc.*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+[FATHIMA SHARA AJMI] : Backend ,Frontend 
+ [ROSHNAMOL SURESH] : Documentation, idea
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
